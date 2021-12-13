@@ -199,3 +199,9 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+/* Table */
+.table {
+    margin: 0 auto;
+    width: 80%;
+}
